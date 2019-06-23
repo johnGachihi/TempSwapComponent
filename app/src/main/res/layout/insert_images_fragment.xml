@@ -83,7 +83,7 @@
                         style="@style/Widget.MaterialComponents.Button.TextButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="start"
+                        android:layout_gravity="end"
                         android:text="@string/add_image" />
                 </LinearLayout>
 
@@ -142,6 +142,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/add_image"
+                    android:layout_gravity="end"
                     style="@style/Widget.MaterialComponents.Button.TextButton"/>
             </LinearLayout>
 
